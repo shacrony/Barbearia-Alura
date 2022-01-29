@@ -9,7 +9,7 @@
 
 (![20220129_003442](https://user-images.githubusercontent.com/61089592/151646246-2071518a-9129-4b50-8ce6-9a036f60127d.gif)
 
-Para conferir mais sobre o site basta <a href="https://shacrony.github.io/Bikcraft/" target="_blank"> clicar aqui </a> 
+Para conferir mais sobre o site basta <a href="https://shacrony.github.io/Barbearia-Alura/" target="_blank"> clicar aqui </a> 
 
 <h3> TECNOLOGIAS USADAS </h3>
 
